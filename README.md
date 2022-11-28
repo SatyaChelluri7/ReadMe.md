@@ -28,7 +28,7 @@
 <li>CSS</li>
 </ul>
 <hr>
-- 📫 How to reach me **mohammedkhaja09@gmail.com**
+- 📫 How to reach me **satyasrinivas3801@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/XXYhWrIFZ](https://resume.io/r/XXYhWrIFZ)
 
