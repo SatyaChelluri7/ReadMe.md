@@ -25,7 +25,7 @@
 <li>CSS</li>
 </ul>
 <hr>
-- 📫 How to reach me **satyasrinivas3801@gmail.com**
+- 📫 How to reach me <a href="mailto:satyasrinivas3801@gmail.com">satyasrinivas3801@gmail.com</a>
 
 - 📄 Know about my experiences [https://resume.io/r/XXYhWrIFZ](https://resume.io/r/XXYhWrIFZ)
 
