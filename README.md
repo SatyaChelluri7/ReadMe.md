@@ -2,9 +2,6 @@
 <h2>Hi 👋, I'm Satya chelluri</h2>
 <h3>Software Developer || fullstack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashifash&label=Profile%20views&color=0e75b6&style=flat" alt="ashifash" /> </p>
-
-<p align="left"> <a href="https://twitter.com/chelluri_satya" target="blank"><img src="https://twitter.com/home" alt="I think network problem" />Twitter</a> </p>
-
 <h2> About me </h2>
 <ul>
 <li>Programmer | Full Stack Developer</li>
