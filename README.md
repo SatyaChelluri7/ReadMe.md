@@ -3,7 +3,7 @@
 <h3>Software Developer || fullstack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashifash&label=Profile%20views&color=0e75b6&style=flat" alt="ashifash" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chelluri_satya" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="I think network problem" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chelluri_satya" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="I think network problem" />Twitter</a> </p>
 
 <h2> About me </h2>
 <ul>
